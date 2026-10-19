@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.taimurqazi.com"><img src="https://img.shields.io/badge/Portfolio-taimurqazi.com-1d1d1f?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/qazitaimur"><img src="https://img.shields.io/badge/LinkedIn-qazitaimur-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:qazitaimur30@gmail.com"><img src="https://img.shields.io/badge/Email-taimurqazi1%40gmail.com-2a5bd7?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:taimurqazi1@gmail.com"><img src="https://img.shields.io/badge/Email-taimurqazi1%40gmail.com-2a5bd7?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
