@@ -9,7 +9,7 @@
 
 ---
 
-I've spent 3+ years shipping production web apps end to end, from React and Next.js interfaces to Node.js and Python services, Terraform-managed AWS infrastructure, and the CI/CD behind it. At my last role I grew from full stack engineer into the team's architect, and hardened our AWS accounts with GuardDuty, Inspector, Security Hub and CloudTrail.
+I've spent 4+ years shipping production web apps end to end, from React and Next.js interfaces to Node.js and Python services, Terraform-managed AWS infrastructure, and the CI/CD behind it. At my last role I grew from full stack engineer into the team's architect, and hardened our AWS accounts with GuardDuty, Inspector, Security Hub and CloudTrail.
 
 Now I'm finishing an **M.S. in Cybersecurity** (GPA 3.94) and working toward the **Burp Suite Certified Practitioner**. I'm looking for **full stack, cloud security and application security** roles.
 
